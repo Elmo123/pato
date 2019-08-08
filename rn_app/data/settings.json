@@ -1,0 +1,1 @@
+{"settings":{ "maxElev":100, "minElev":0, "maxFlow":5, "minFlow":-5, "alarmEMax":90, "alarmEMin":30, "alarmFMax":4, "alarmFMin":-4, "maxDet":10000 }}
